@@ -1,0 +1,74 @@
+{
+  "Students": [
+    {
+      "id": "1003",
+      "sname": "Kiranmayee",
+      "course": "Python",
+      "fees": 20000,
+      "mailid": "kiran@gmail.com",
+      "pswd": "kr@123"
+    },
+    {
+      "id": "1004",
+      "sname": "Krishna Rao",
+      "course": "Java",
+      "fees": 25000,
+      "mailid": "kits@gmail.com",
+      "pswd": "ki@123"
+    },
+    {
+      "id": "1005",
+      "sname": "Kamal Hasan",
+      "course": "Python",
+      "fees": 25000,
+      "mailid": "kamal@gmail.com",
+      "pswd": "ka@123"
+    },
+    {
+      "id": "1222",
+      "sname": "Pravasthi",
+      "course": "Python",
+      "fees": "25000.00",
+      "mailid": "pravasthi@gmail.com",
+      "pswd": "p@123"
+    },
+    {
+      "id": "1225",
+      "sname": "Geetha",
+      "course": "Java",
+      "fees": "25000.00",
+      "mailid": "geetha@gmail.com",
+      "pswd": "g@123"
+    },
+    {
+      "id": "1267",
+      "sname": "Ramesh",
+      "course": "Python",
+      "fees": "20000.00",
+      "mailid": "ramesh@gmail.com",
+      "pswd": "r@123"
+    },
+    {
+      "id": "1546",
+      "sname": "Lavanya Kumari",
+      "course": "Python",
+      "fees": "25000.00",
+      "mailid": "lavan@gmail.com",
+      "pswd": "l@123"
+    }
+  ],
+  "Employees": [
+    {
+      "id": "101",
+      "ename": "Kiranmayee",
+      "job": "HR Manager",
+      "salary": 20000
+    },
+    {
+      "id": "102",
+      "ename": "Murali",
+      "job": "Developer",
+      "salary": 25000
+    }
+  ]
+}
